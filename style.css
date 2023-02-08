@@ -1,0 +1,18 @@
+
+.absolut_text{
+    color: blueviolet;
+}
+
+.section_dg{
+    background-image: url("img1.jpg");
+    background-size: cover;
+    }
+    .appintment_tex ul li{
+        list-style: none;
+        margin-top: 60px;
+    }
+    .appintment_tex ul li a{
+        
+        color: rgb(1, 2, 2);
+        text-decoration: none;
+    }
